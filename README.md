@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **aws and react**
 
-- 💬 Ask me about **python, django,react**
+- 💬 Ask me about **python, django**
 
 - 📫 How to reach me **munavirt79@gmail.com**
 
