@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=munavirt&label=Profile%20views&color=0e75b6&style=flat" alt="munavirt" /> </p>
 
-- 🔭 I’m currently working on **Ecommerce shopping application**
+- 🔭 I’m currently working on **API and Django Rest Framework**
 
 - 🌱 I’m currently learning **aws and react**
 
