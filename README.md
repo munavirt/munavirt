@@ -4,15 +4,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=munavirt&label=Profile%20views&color=0e75b6&style=flat" alt="munavirt" /> </p>
 
-- 🔭 I’m currently working on **API and Django Rest Framework**
+- 🔭 I’m currently working on **Machine Learning and Data Science**
 
-- 🌱 I’m currently learning **aws and react**
+- 🌱 I’m currently learning **Machine Learning**
 
-- 💬 Ask me about **python, django**
+- 💬 Ask me about **Backend Development**
 
 - 📫 How to reach me **munavirt79@gmail.com**
 
-- ⚡ Fun fact **I am always coding without sleeping**
+- ⚡ Fun fact **I debug more than I breathe, and that's okay**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
